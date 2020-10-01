@@ -1,4 +1,4 @@
-Melissa
+MELISSA - A Female Virtual Assistant
 -------
 
 | |Build Status| |Codacy Badge| |codecov.io|
